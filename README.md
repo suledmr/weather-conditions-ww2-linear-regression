@@ -32,7 +32,20 @@ Dataset link: <https://www.kaggle.com/datasets/smid80/weatherww2>
 
 ## How to Run
 
-1. Clone this repository:
+1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone YOUR_REPO_LINK
+
+```
+2. Install dependencies:
+   
+```bash
+pip install -r requirements.txt
+
+```
+3. Open notebook:
+   
+```bash
+jupyter notebook
+```
